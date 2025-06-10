@@ -1,6 +1,6 @@
 | Screenshots   |
 |---------------|
-| ![Screen 1](appScreenshots/photo_1.jpg) |
+| <img src="appScreenshots/photo_1.jpg" width=200>) |
 | Screen 1  (light theme) |
-| ![Screen 2](appScreenshots/photo_2.jpg) |
+| <img src="appScreenshots/photo_2.jpg" width=200> |
 | Screen 2  (dark theme) |
