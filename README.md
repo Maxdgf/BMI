@@ -1,3 +1,5 @@
+<img style="margin-left: 5px; width: 50px; height: 50px;" src="ic_launcher-playstore.png">
+
 ## 🌟Features
 
 - Calculate bmi by height in sm and mass in kg.
