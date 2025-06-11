@@ -1,4 +1,4 @@
-<img style="margin-left: 5px; width: 50px; height: 50px;" src="app/src/main/ic_launcher-playstore.png">
+<img style="margin-right: 5px; width: 50px; height: 50px;" src="app/src/main/ic_launcher-playstore.png">
 
 ## 🌟Features
 
