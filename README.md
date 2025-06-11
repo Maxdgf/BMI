@@ -1,4 +1,6 @@
-<center><h1>BMI <img style="margin-right: 5px; width: 50px; height: 50px;" src="app/src/main/ic_launcher-playstore.png"></h1></center>
+<h1>BMI <img style="margin-right: 5px; width: 50px; height: 50px;" src="app/src/main/ic_launcher-playstore.png"></h1>
+
+<h3>Android app in jetpack compose for bmi💪 calculating.</h3>
 
 ## 🌟Features
 
